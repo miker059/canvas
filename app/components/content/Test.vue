@@ -1,11 +1,11 @@
-<script setup lang="ts">
+<script setup>
 
 </script>
 
 <template>
-  <div class="text-3xl text-blue">
+  <section class="mx-auto mt-4 flex max-w-4xl flex-col p-7 sm:mt-20 text-3xl text-blue-400">
     <slot />
-  </div>
+  </section>
 </template>
 
 <style scoped>
