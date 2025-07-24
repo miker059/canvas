@@ -1,1 +1,0 @@
-import{_ as t}from"./DlAUqK2U.js";import{c as s,d as o,a8 as c}from"./CSySCOx7.js";const r={},a={class:"text-3xl text-blue"};function n(e,_){return o(),s("div",a,[c(e.$slots,"default")])}const f=Object.assign(t(r,[["render",n]]),{__name:"Test"});export{f as default};

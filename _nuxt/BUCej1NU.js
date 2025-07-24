@@ -1,0 +1,1 @@
+import{_ as t}from"./DlAUqK2U.js";import{c as s,d as o,a8 as c}from"./DdXDomI_.js";const a={},n={class:"mx-auto mt-4 flex max-w-4xl flex-col p-7 sm:mt-20 text-3xl text-blue-400"};function r(e,l){return o(),s("section",n,[c(e.$slots,"default")])}const f=Object.assign(t(a,[["render",r]]),{__name:"Test"});export{f as default};
